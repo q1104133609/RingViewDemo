@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ringview">
+        <attr name="out_circle_width" format="integer" />
+        <attr name="in_circle_width" format="integer" />
+        <attr name="out_circle_color" format="color" />
+        <attr name="in_circle_color" format="color" />
+        <attr name="image_angle" format="integer" />
+        <attr name="image_padding" format="integer" />
+        <attr name="max_speed" format="integer" />
+        <attr name="min_speed" format="integer" />
+        <attr name="list" format="integer" />
+        <attr name="can_scroll" format="boolean" />
+    </declare-styleable>
+</resources>
